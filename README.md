@@ -1,1 +1,1 @@
-# ArcheoActivity Ontology (ArAcO)
+# ARcheoActivity Ontology (ARAo)
